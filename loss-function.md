@@ -1,0 +1,3 @@
+# LOSS FUNCTION 
+
+Test post
